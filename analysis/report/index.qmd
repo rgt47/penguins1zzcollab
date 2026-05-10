@@ -110,7 +110,7 @@ example of that pattern.
 Errors and better approaches are welcome; see the
 Feedback section at the end.
 
-![A quiet moment before the analysis begins.](media/images/placeholder-coffee-01.jpg){.img-fluid}
+![A quiet moment before the analysis begins.](media/images/ambiance1.jpg){.img-fluid}
 
 # Prerequisites and Setup
 
