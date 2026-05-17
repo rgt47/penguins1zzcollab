@@ -2,9 +2,6 @@
 title: >
   Palmer Penguins Part 1: Exploratory Data Analysis
   and Simple Regression
-subtitle: >
-  Getting acquainted with Antarctic penguin
-  morphometrics and their predictive relationships
 author: "Ronald 'Ryy' G. Thomas"
 date: "2025-01-01"
 categories: [r, regression, zzcollab, reproducibility]
@@ -29,7 +26,7 @@ format:
 
 ![Penguins gathered along the Antarctic
 shoreline](media/images/hero.jpg){.img-fluid
-width=80%}
+width=80% fig-align="center"}
 
 *Photo: Antarctic penguins. Licensed under
 [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
